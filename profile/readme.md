@@ -21,6 +21,7 @@ Oferecemos diversos tópicos em nossa organização, incluindo:
 - Engenharia de software;
 - Modelagem de banco de dados;
 - Sistemas Operacionais e Redes de Computadores.
+
 Futuramente teremos mais adições...
 
 ## Como participar
